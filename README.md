@@ -18,4 +18,4 @@ bilibili:https://space.bilibili.com/407038500?spm_id_from=333.1007.0.0
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUISTWF&langs_count=6)
 
- <img align="left" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />
