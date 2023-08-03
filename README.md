@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="./images/header_.png" />
+
 
 <img align="right" src="https://count.getloli.com/get/@:NUISTWF?theme=rule34">
 
