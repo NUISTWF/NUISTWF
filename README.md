@@ -12,7 +12,7 @@ CSDN:https://blog.csdn.net/weixin_73949907?spm=1000.2115.3001.5343
 
 bilibili:https://space.bilibili.com/407038500?spm_id_from=333.1007.0.0
 
- <img align="right" alt="GIF" src="./images/code.gif" width="400" height="120%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="380" height="120%" />
 
 ### Github 活跃度
 
