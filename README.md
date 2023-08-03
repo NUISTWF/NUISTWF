@@ -1,5 +1,4 @@
 
-
 <img align="right" src="https://count.getloli.com/get/@:NUISTWF?theme=rule34">
 
 <img align="right" alt="GIF" src="./images/header_.png" />
@@ -9,9 +8,9 @@
 热爱编程、热爱技术。2023年4月初开始正式学习嵌入式。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
-CSDN:<a href="https://blog.csdn.net/weixin_73949907?spm=1000.2115.3001.5343">
+CSDN:https://blog.csdn.net/weixin_73949907?spm=1000.2115.3001.5343
 
-bilibili:<a href="https://space.bilibili.com/407038500?spm_id_from=333.1007.0.0">
+bilibili:https://space.bilibili.com/407038500?spm_id_from=333.1007.0.0
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
