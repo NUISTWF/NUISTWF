@@ -1,5 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:NUISTWF?theme=rule34">
 
+<img align="right" alt="GIF" src="./images/header_.png" />
+
 ## 嵌入式软件工程师-NUISTWF
 
 热爱编程、热爱技术。2023年4月初开始正式学习嵌入式。喜欢参与一些开源项目的讨论。
